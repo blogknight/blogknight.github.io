@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knight</title>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc neque lorem,  cursus et quam luctus, porta malesuada elit. Quisque ac dui a libero pulvinar posuere sed sit  amet nisi. Aliquam tempor sem sit amet cursus pulvinar. Suspendisse potenti. Sed lacinia.
+</description>
+    <link>localhost:4000/</link>
+    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Jun 2016 09:46:29 -0400</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 09:46:29 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Template and Stuff You Can Do!</title>
+        <description>&lt;p&gt;This is a template, You can do whatever you want with markdown so dont just follow this&lt;/p&gt;
+
+&lt;h1 id=&quot;header-1&quot;&gt;Header 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;header-2&quot;&gt;Header 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;header-3&quot;&gt;Header 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;header-4&quot;&gt;Header 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;header-5&quot;&gt;Header 5&lt;/h5&gt;
+
+&lt;h6 id=&quot;header-6&quot;&gt;Header 6&lt;/h6&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;![image](http://image/url/here.ext)&lt;/code&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Block quote block quotes&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; Block quote block quote
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec turpis sed augue scelerisque tristique. Suspendisse a dui vel dolor congue bibendum a in tellus. Curabitur placerat dui quis erat dapibus euismod. Vestibulum nec lacus mollis, elementum ex vitae, volutpat metus. Suspendisse et viverra mauris. Nunc at congue tellus. Cras a erat at velit iaculis feugiat quis quis urna.&lt;/p&gt;
+
+&lt;p&gt;Quisque sit amet luctus mauris, et ornare dolor. Nam faucibus libero ante, nec lacinia mi pulvinar sit amet. Vestibulum gravida, nisi sit amet faucibus porta, mi nibh ultricies eros, eget aliquam enim orci at urna. Sed at bibendum felis. Proin sollicitudin quam vitae ante rutrum gravida. Praesent bibendum id nisi at semper. Nam sagittis facilisis massa, vitae rutrum mi varius id. Aliquam ante ipsum, dictum sed dolor a, sagittis sollicitudin mauris. Duis finibus tincidunt nisi id imperdiet. Quisque porta nisl ac libero posuere accumsan. Sed rhoncus ullamcorper nunc laoreet pellentesque. Nulla dignissim lacinia enim, quis molestie odio molestie eu.&lt;/p&gt;
+
+&lt;p&gt;Phasellus consectetur libero dui, vel congue massa convallis vitae. Integer lacinia maximus urna id lobortis. Proin tristique nibh ut purus vulputate, at sagittis nisl aliquam. Sed scelerisque blandit lectus vitae cursus. Pellentesque dapibus, ipsum eget bibendum interdum, magna ex scelerisque elit, at viverra lorem augue nec leo. Integer elementum libero nec velit facilisis volutpat. Nulla porta efficitur sodales. Proin congue erat ligula, ac tempor enim sodales vel.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Jun 2016 09:32:33 -0400</pubDate>
+        <link>localhost:4000/lorem/ipsum/2016/06/28/lorem-ipsum.html</link>
+        <guid isPermaLink="true">localhost:4000/lorem/ipsum/2016/06/28/lorem-ipsum.html</guid>
+        
+        
+        <category>lorem</category>
+        
+        <category>ipsum</category>
+        
+      </item>
+    
+  </channel>
+</rss>
